@@ -1,5 +1,4 @@
-https://www.pinterest.com/pin/1970393582467200/
-
+https://pin.it/1bkGLMNHw
 
 
 <h1 align="center">Hi 👋, I'm The AI Lab</h1>
