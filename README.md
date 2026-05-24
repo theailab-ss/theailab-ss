@@ -1,4 +1,5 @@
-https://pin.it/1bkGLMNHw
+<img width="1680" height="640" alt="ac0f59b0-0ec9-4dae-843c-84ef235e1112" src="https://github.com/user-attachments/assets/70469305-8fc2-4494-ab38-e0c26e8bab73" />
+
 
 
 <h1 align="center">Hi 👋, I'm The AI Lab</h1>
