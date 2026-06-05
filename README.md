@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, This is The AI Lab</h1>
+<h1 align="center">Hi 👋, This is Programming with Siju</h1>
 <h3 align="center">"Beginner Python Learner"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theailab-ss&label=Profile%20views&color=0e75b6&style=flat" alt="theailab-ss" /> </p>
